@@ -1,0 +1,4 @@
+#!d:\mental health chatbot\cb2\scripts\python.exe
+
+from bert_embedding.cli import main
+main()
