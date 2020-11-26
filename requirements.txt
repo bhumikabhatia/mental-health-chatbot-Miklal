@@ -9,8 +9,6 @@ cachetools==4.1.1
 catalogue==1.0.0
 certifi==2020.6.20
 chardet==3.0.4
-ChatterBot==1.0.8
-chatterbot-corpus==1.2.0
 click==7.1.2
 cymem==2.0.3
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
